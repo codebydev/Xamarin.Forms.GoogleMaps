@@ -216,3 +216,5 @@ See [LICENSE](LICENSE.txt) .
 * Android Icon made by [Hanan](http://www.flaticon.com/free-icon/android_109464) from www.flaticon.com
 * Apple Icon made by [Dave Gandy](http://www.flaticon.com/free-icon/apple-logo_25345) from www.flaticon.com
 
+
+http://xamaringuyshow.com/2023/06/28/dotnet-maui-google-maps-with-custom-pins/
